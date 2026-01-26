@@ -6,7 +6,7 @@
 <p align="center">
 	<img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg" />
 
-  <a href="https://github.com/mandarnaik016/PassGen/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/mandarnaik016/XSOAR-Visualizer/blob/main/LICENSE" target="_blank">
     <img alt="License: GPL-3.0" src="https://img.shields.io/badge/License-GPL-yellow.svg" />
   </a>
 </p>
@@ -20,18 +20,24 @@ The last time I opened yet another XSOAR environment, I was greeted by chaos: pl
 ## Install
 
 ```sh
-git clone git@github.com:mandarnaik016/Pongy.git
+git clone git@github.com:mandarnaik016/XSOAR-Visualizer.git
 ```
 
 ## Usage
 
-1. Extract the contents of `content-bundle-\*.tar.gz` to folder **ContentBundle**.
-2. Run ```python main.py```.
-3. Load the `outputs.json` in [jsoncrack](https://jsoncrack.com/editor).
+1. Extract the contents of `content-bundle-*.tar.gz` to folder **ContentBundle**.
+2. Run `python main.py`.
+3. Enter incident type name.
+4. Load the generated `outputs.json` in [jsoncrack](https://jsoncrack.com/editor).
 
 ## Result
 
 <p align="center"><a href="img/result.png"><img alt="result" src="img/result.png" /></a></p>
+
+## Todo
+
+- [ ] Add custom file path of content bundle as input.
+- [ ] Add custom incident fields used within layout to graphs.
 
 ## Author
 
@@ -40,11 +46,11 @@ git clone git@github.com:mandarnaik016/Pongy.git
 - Website: https://mandarnaik016.github.io/
 - Twitter: [@_md_naik](https://twitter.com/_md_naik)
 - Github: [mandarnaik016](https://github.com/mandarnaik016)
-- LinkedIn: [mandar-naik-65354a186](https://linkedin.com/in/mandarnaik016)
+- LinkedIn: [mandarnaik016](https://linkedin.com/in/mandarnaik016)
 
 ## :open_hands: Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/mandarnaik016/Pongy/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/mandarnaik016/XSOAR-Visualizer/issues).
 
 ## :heart: Show your support
 
@@ -53,4 +59,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2026 [Mandar Naik](https://github.com/mandarnaik016).<br />
-This project is [GPL v3](https://github.com/mandarnaik016/Pongy/blob/main/LICENSE) licensed.
+This project is [GPL v3](https://github.com/mandarnaik016/XSOAR-Visualizer/blob/main/LICENSE) licensed.

@@ -4,7 +4,7 @@
 
 <p align="center">Visualize XSOAR content bundles as intuitive, interactive graphs.</p>
 <p align="center">
-	<img alt="Version" src="https://img.shields.io/badge/version-0.1-blue.svg" />
+	<img alt="Version" src="https://img.shields.io/badge/version-0.2.0-blue.svg" />
 
   <a href="https://github.com/mandarnaik016/XSOAR-Visualizer/blob/main/LICENSE" target="_blank">
     <img alt="License: GPL-3.0" src="https://img.shields.io/badge/License-GPL-yellow.svg" />
